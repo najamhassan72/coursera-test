@@ -32,15 +32,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
+section.Liskov>h2 {
     background-color: #AFFD3A;
 }
 
-section.fubini>h2 {
+section.Larry>h2 {
     background-color: #BCF369;
 }
 
-section.luzin>h2 {
+section.Musk>h2 {
     color: #e2e2e2;
     background-color: #71A12A;
 }
