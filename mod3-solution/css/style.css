@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #cce6ff;
+    background-color: #599e4b;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #0066cc;
+    background-color: #c98715;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #00134d;
+    background-color: #fce29e;
 }
 
 .navbar-collapse {
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #00134d;
+    color: #7d1913;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -45,7 +45,7 @@ body {
 }
 
 #nav-list {
-    background-color: #4da6ff;
+    background-color: #e4af34;
 }
 
 #nav-list a {
@@ -56,7 +56,7 @@ body {
 }
 
 #nav-list a:hover {
-    color: #003366;
+    color: #202020;
     background-color: #fce29e;
 }
 
@@ -91,9 +91,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #4d79ff;
+    background-color: #99ed7b;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #809fff;
+    box-shadow: 0 0 80px #18580b;
 }
 
 
